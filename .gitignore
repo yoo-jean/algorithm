@@ -9,6 +9,10 @@ gen
 
 *.log
 *.back
+*.gradle
+*.properties
+*.bat
+
 
 report_card.pdf
 *.c
